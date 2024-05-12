@@ -1,0 +1,31 @@
+C:\Users\alexa\source\repos\MyProject_2\bin\Debug\MyProject_2.exe.config
+C:\Users\alexa\source\repos\MyProject_2\bin\Debug\MyProject_2.exe
+C:\Users\alexa\source\repos\MyProject_2\bin\Debug\MyProject_2.pdb
+C:\Users\alexa\source\repos\MyProject_2\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_2\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_2\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_2\obj\Debug\MyProject_2.exe
+C:\Users\alexa\source\repos\MyProject_2\obj\Debug\MyProject_2.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\bin\Debug\MyProject_2.exe.config
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\bin\Debug\MyProject_2.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\bin\Debug\MyProject_2.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\obj\Debug\MyProject_2.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_02\obj\Debug\MyProject_2.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\bin\Debug\MyProject_2.exe.config
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\bin\Debug\MyProject_2.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\bin\Debug\MyProject_2.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_2.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_2.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\bin\Debug\MyProject_2.exe.config
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\bin\Debug\MyProject_2.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\bin\Debug\MyProject_2.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_02 (Input. Parse, Convert to, TryParse).csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_2.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_02\obj\Debug\MyProject_2.pdb

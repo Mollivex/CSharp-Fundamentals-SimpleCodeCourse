@@ -1,0 +1,31 @@
+C:\Users\alexa\source\repos\MyProject_3\bin\Debug\MyProject_3.exe.config
+C:\Users\alexa\source\repos\MyProject_3\bin\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\MyProject_3\bin\Debug\MyProject_3.pdb
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_03 (Average number) HW1.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_03 (Average number) HW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_03 (Average number) HW1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_3.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\bin\Debug\MyProject_3.exe.config
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\bin\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\bin\Debug\MyProject_3.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\obj\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_03\obj\Debug\MyProject_3.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\bin\Debug\MyProject_3.exe.config
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\bin\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\bin\Debug\MyProject_3.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_3.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\bin\Debug\MyProject_3.exe.config
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\bin\Debug\MyProject_3.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\bin\Debug\MyProject_3.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_03 (Average number) HW1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_3.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_03\obj\Debug\MyProject_3.pdb

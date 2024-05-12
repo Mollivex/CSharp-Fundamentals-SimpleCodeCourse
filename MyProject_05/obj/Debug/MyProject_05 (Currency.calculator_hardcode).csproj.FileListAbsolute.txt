@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\MyProject_5\bin\Debug\MyProject_5.exe.config
+C:\Users\alexa\source\repos\MyProject_5\bin\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\MyProject_5\bin\Debug\MyProject_5.pdb
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_05 (Currency.calculator_hardcode).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_05 (Currency.calculator_hardcode).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_05 (Currency.calculator_hardcode).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_5.pdb

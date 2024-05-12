@@ -1,0 +1,31 @@
+C:\Users\alexa\source\repos\MyProject_5\bin\Debug\MyProject_5.exe.config
+C:\Users\alexa\source\repos\MyProject_5\bin\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\MyProject_5\bin\Debug\MyProject_5.pdb
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\MyProject_5\obj\Debug\MyProject_5.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\bin\Debug\MyProject_5.exe.config
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\bin\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\bin\Debug\MyProject_5.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\obj\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_05\obj\Debug\MyProject_5.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\bin\Debug\MyProject_5.exe.config
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\bin\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\bin\Debug\MyProject_5.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_5.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_5.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\bin\Debug\MyProject_5.exe.config
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\bin\Debug\MyProject_5.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\bin\Debug\MyProject_5.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_05 (SimpleCode_Currency Calculator) HW2 (2).csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_5.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_05\obj\Debug\MyProject_5.pdb

@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\MyProject_4\bin\Debug\MyProject_4.exe.config
+C:\Users\alexa\source\repos\MyProject_4\bin\Debug\MyProject_4.exe
+C:\Users\alexa\source\repos\MyProject_4\bin\Debug\MyProject_4.pdb
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_04 (Sum_Multiply).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_04 (Sum_Multiply).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_04 (Sum_Multiply).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_4.exe
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_4.pdb

@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\MyProject_3\bin\Debug\MyProject_3.exe.config
+C:\Users\alexa\source\repos\MyProject_3\bin\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\MyProject_3\bin\Debug\MyProject_3.pdb
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_03 (Average number).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_03 (Average number).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_03 (Average number).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_3.exe
+C:\Users\alexa\source\repos\MyProject_3\obj\Debug\MyProject_3.pdb

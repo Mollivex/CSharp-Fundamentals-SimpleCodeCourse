@@ -1,0 +1,23 @@
+C:\Users\alexa\source\repos\MyProject_4\bin\Debug\MyProject_4.exe.config
+C:\Users\alexa\source\repos\MyProject_4\bin\Debug\MyProject_4.exe
+C:\Users\alexa\source\repos\MyProject_4\bin\Debug\MyProject_4.pdb
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_4.exe
+C:\Users\alexa\source\repos\MyProject_4\obj\Debug\MyProject_4.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\bin\Debug\MyProject_4.exe.config
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\bin\Debug\MyProject_4.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\bin\Debug\MyProject_4.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_4.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_4.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\bin\Debug\MyProject_4.exe.config
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\bin\Debug\MyProject_4.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\bin\Debug\MyProject_4.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_04 (Sum_Multiply) HW2 (1).csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_4.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_04\obj\Debug\MyProject_4.pdb
