@@ -1,0 +1,31 @@
+C:\Users\alexa\source\repos\MyProject_7\bin\Debug\MyProject_7.exe.config
+C:\Users\alexa\source\repos\MyProject_7\bin\Debug\MyProject_7.exe
+C:\Users\alexa\source\repos\MyProject_7\bin\Debug\MyProject_7.pdb
+C:\Users\alexa\source\repos\MyProject_7\obj\Debug\MyProject_07 (Relational Operators).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_7\obj\Debug\MyProject_07 (Relational Operators).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_7\obj\Debug\MyProject_07 (Relational Operators).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_7\obj\Debug\MyProject_7.exe
+C:\Users\alexa\source\repos\MyProject_7\obj\Debug\MyProject_7.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\bin\Debug\MyProject_7.exe.config
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\bin\Debug\MyProject_7.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\bin\Debug\MyProject_7.pdb
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\obj\Debug\MyProject_7.exe
+C:\Users\alexa\source\repos\#SimpleCode (C# Course)\MyProject_07\obj\Debug\MyProject_7.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\bin\Debug\MyProject_7.exe.config
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\bin\Debug\MyProject_7.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\bin\Debug\MyProject_7.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_7.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_7.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\bin\Debug\MyProject_7.exe.config
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\bin\Debug\MyProject_7.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\bin\Debug\MyProject_7.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_07 (Relational Operators).csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_7.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_07\obj\Debug\MyProject_7.pdb

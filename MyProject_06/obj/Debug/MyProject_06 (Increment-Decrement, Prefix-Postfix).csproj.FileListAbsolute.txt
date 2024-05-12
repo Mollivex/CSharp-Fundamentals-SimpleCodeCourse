@@ -1,0 +1,23 @@
+C:\Users\alexa\source\repos\MyProject_6\bin\Debug\MyProject_6.exe.config
+C:\Users\alexa\source\repos\MyProject_6\bin\Debug\MyProject_6.exe
+C:\Users\alexa\source\repos\MyProject_6\bin\Debug\MyProject_6.pdb
+C:\Users\alexa\source\repos\MyProject_6\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\MyProject_6\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\MyProject_6\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MyProject_6\obj\Debug\MyProject_6.exe
+C:\Users\alexa\source\repos\MyProject_6\obj\Debug\MyProject_6.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\bin\Debug\MyProject_6.exe.config
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\bin\Debug\MyProject_6.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\bin\Debug\MyProject_6.pdb
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_6.exe
+C:\Users\alexa\source\repos\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_6.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\bin\Debug\MyProject_6.exe.config
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\bin\Debug\MyProject_6.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\bin\Debug\MyProject_6.pdb
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_06 (Increment-Decrement, Prefix-Postfix).csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_6.exe
+C:\Users\alexa\Dropbox\My PC (DESKTOP-KGQF5PG)\Desktop\GitHub projects to upload\C# Fundamentals (#SimpleCode)\MyProject_06\obj\Debug\MyProject_6.pdb
